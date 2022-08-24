@@ -1,0 +1,37 @@
+#form1{
+    
+    width: 600px;
+    height: 150px;
+    background-color: rgb(40, 4, 112);
+   
+    position: absolute;
+    left: 300px;
+    top: 200px;
+    padding: 10px;
+    color: white;
+    display: none;
+    z-index: 1000;
+}
+
+#search1{
+    margin-bottom: 8px;
+}
+#cross{
+    color: aliceblue;
+}
+#main{
+    background-color: rgb(90, 86, 86);
+    width: 40vw;
+    height: 200px;
+    position: absolute;
+    left: 22vw;
+    top: 200px;
+    padding: 20px;
+}
+/* #vid{
+    width: 90vw;
+    background-color: red;
+}
+video{
+    width: 99vw;
+} */
